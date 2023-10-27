@@ -1,3 +1,7 @@
+# FORK Information
+This form is required to perform some changes to ge tthe lib still running.
+* src/WebsocketHandler.cpp
+
 # ESP32 HTTPS Server
 
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/fhessel/esp32_https_server?label=Version&sort=semver) ![Build Examples](https://github.com/fhessel/esp32_https_server/workflows/Build%20Examples/badge.svg?branch=master)
